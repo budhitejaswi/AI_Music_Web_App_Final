@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+}
+.note{
+    font-size: 19px;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(63, 63, 97);
+    text-shadow: none;
+}
+
+.css{
+    font-family: fantasy;
+    color:rgb(45, 64, 71);
+    text-shadow: 1px 1px rgb(255, 255, 255);
+    font-size: 30px;   
+}
+
+.btn-warning:hover{
+    cursor: default;
+    color: rgb(90, 121, 90);
+    background-color: #f3a52fd2;
+}
+
+.btn-primary:hover{
+    cursor: default;
+    background-color: rgb(42, 122, 187);
+}
+
+#song_name{
+    color:#ffffffd2;
+}
+
+canvas{
+    border:ridge grey;
+    border-radius: 20px;
+}
